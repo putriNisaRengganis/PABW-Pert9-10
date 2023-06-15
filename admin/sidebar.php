@@ -20,6 +20,31 @@
                 <p>Kategori</p>
               </a>
               </li>
+            <li class="nav-item">
+              <a href="../about/index.php" class="nav-link">
+                <i class="nav-icon far fa-image"></i>
+                <p>About</p>
+              </a>
+            </li>
+              <li class="nav-item">
+              <a href="../sosmed/index.php" class="nav-link">
+                <i class="nav-icon far fa-image"></i>
+                <p>Sosmed</p>
+              </a>
+              <li>
+              <li class="nav-item">
+              <a href="../slider/index.php" class="nav-link">
+                <i class="nav-icon far fa-image"></i>
+                <p>Slider</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="../twitter/index.php" class="nav-link">
+                <i class="nav-icon far fa-image"></i>
+                <p>Twitter</p>
+              </a>
+            </li>
+
             <!-- SIDEBAR / ASIDE -->
           </ul>
         </nav>
